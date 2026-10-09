@@ -1,12 +1,12 @@
-# Titre du film
+# Slice of life
 
-Projet conçu en équipe avec : [prénoms des coéquipiers]
+Projet conçu en équipe avec : Me, myself and I
 
 ## Le concept et l'audience
 
-- Une phrase (logline) : ...
+- Une phrase (logline) : Doc wants project nexus to be demolished but heard another group did it instead
 - Le public cible : ...
-- La franchise d'origine : ...
+- La franchise d'origine : Madness project nexus
 
 ## L'intrigue
 
@@ -15,16 +15,16 @@ Projet conçu en équipe avec : [prénoms des coéquipiers]
 - Le revirement (plot twist) : ...
 - La fin : ...
 
-## Le personnage principal
+## Le personnage principal(doc/2b)
 
-- Description (physique et psychologique) : ...
-- Son désir (ce qu'il veut) : ...
-- Son besoin (ce qu'il lui faut) : ...
-- Son évolution : ...
+- Description (physique et psychologique) : A guy in the 40s, that has a black mohawk and a dark gray jacket with a grey shirt underneath. He wears red rectangular goggles with a circular device on the side similar to what doctor uses. He is quite stubborn and serious most of the time always at his computer.
+- Son désir (ce qu'il veut) : wants project nexus gone
+- Son besoin (ce qu'il lui faut) : need a good team or a helper to help him with the mission
+- Son évolution : going from always at his laptop working to actually being in actions, with fear of getting killed during the mission which was something he never felt when he stayed in his ofice 24/7
 
 ## L'univers
 
-- Où et quand se passe l'histoire : ...
+- Où et quand se passe l'histoire : Nevada, the time, date and year is unknown
 - Un élément de folklore qui rend l'univers vivant : ...
 
 ## La direction cinématographique
